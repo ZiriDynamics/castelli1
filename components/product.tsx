@@ -128,14 +128,15 @@ export default function Product() {
                 <div className={styles.productHeading}>Material</div>
                 <div className={styles.productParagraph}>
                 Castelli engineered Air_O Stretch fabric for <br />
-                breathability, comfort, and perfect fit. Fabric <br />
-                optimized for breathability and aerodynamics. <br />
-                Raw-cut sleeve endings for comfort. Three back <br />
-                pockets with fourth zippered security pocket for <br />
-                valuables. Full-length YKK® Vision® zipper with <br />
-		easy-use zipper pull. Elastic at waist with silicone <br />
-		to keep hersey in place. Reflective tab for added <br />
-		visibility. <br />
+                breathability, comfort, and perfect fit. <br />
+                Fabric optimized for breathability and <br />
+                aerodynamics. Raw-cut sleeve endings <br />
+                for comfort. Three back pockets with <br />
+                fourth zippered security pocket for <br />
+		valuables. Full-length YKK® Vision® zipper with <br />
+		with easy-use zipper pull. Elastic <br />
+		at waist with silicone to keep jersey <br />
+		in place. Reflective tab for added visibility. <br />
                 </div>
                 <div className={styles.productHeading}>Care Instructions</div>
                 <div className={styles.careInstructions}>
