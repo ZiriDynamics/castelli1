@@ -7,7 +7,7 @@ export default function ProductionJourney() {
     const email = searchParams.get('email');
     if (!name || !email) return null;
 
-    const productName = 'Radical Down RDS Hooded Jacket'
+    const productName = 'ESPRESSO JERSEY'
     const journey = [
         {
             location: 'Portugal',

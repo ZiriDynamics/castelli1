@@ -89,7 +89,7 @@ export default function Product() {
                         </div>
                         <div className={styles.certText}>
                             <div className={styles.certTitle}>This product is certified to be authentic</div>
-                            <div className={styles.certSubtitle}>ZIRI ID 10029AB0</div>
+                            <div className={styles.certSubtitle}>ZIRI ID 10030FS0</div>
                         </div>
                     </div>
                 </div>
@@ -99,9 +99,9 @@ export default function Product() {
                 <div className={styles.logoContainer}>
                     <img className={styles.logoContainerLogo} src={'/dynafit.png'} alt="dynafit" />
                 </div>
-                <div className={styles.productTitle}>Radical Down RDS Hooded Jacket</div>
+                <div className={styles.productTitle}>ESPRESSO JERSEY</div>
                 <div className={styles.productText}>
-                Warmth with minimal weight: This jacket scores big points with its water-resistant down for any ski tour. A popular classic in the DYNAFIT ski touring collection and a must-have in any closet.
+		Designed and engineered with an emphasis on comfort and performance, no matter what type of ride your a planning on today, the Espresso Jersey is the best choice.
                 </div>
                 <div className={styles.productTable}>
                     {
