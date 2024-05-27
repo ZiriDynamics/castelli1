@@ -127,13 +127,13 @@ export default function Product() {
                 </div>
                 <div className={styles.productHeading}>Material</div>
                 <div className={styles.productParagraph}>
-                Castelli engineered Air_O Stretch fabric for <br />
-                breathability, comfort, and perfect fit. <br />
+                Castelli engineered Air_O Stretch fabric <br />
+                for breathability, comfort and perfect fit. <br />
                 Fabric optimized for breathability and <br />
                 aerodynamics. Raw-cut sleeve endings <br />
                 for comfort. Three back pockets with <br />
                 fourth zippered security pocket for <br />
-		valuables. Full-length YKK® Vision® zipper with <br />
+		valuables. Full-length YKK® Vision® zipper <br />
 		with easy-use zipper pull. Elastic <br />
 		at waist with silicone to keep jersey <br />
 		in place. Reflective tab for added visibility. <br />
