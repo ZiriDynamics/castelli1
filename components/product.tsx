@@ -21,13 +21,13 @@ export default function Product() {
     const [showLogin, setShowLogin] = useState(false);
 
     const tableData = {
-        'Product ID': '08-0000&#x200B;070914', // &#x200B; is a zero-width space to prevent safari from thinking it's a phone number
-        'Color': 'Burgundy',
-        'Layers': 'DYNASHELL ULTRA LIGHT',
-        'Clothing fit': 'Medium',
+        'Product ID': '45240&#x200B;07-245', // &#x200B; is a zero-width space to prevent safari from thinking it's a phone number
+        'Color': 'Mocha / Dark Grey',
+        'Layers': 'Insulated',
+        'Clothing fit': 'Race',
         'Size': 'Medium',
-        'Weight': '430g',
-        'Made in': 'Europe',
+        'Weight': '125 g',
+        'Made in': 'Bosnia',
     }
 
     useEffect(() => {
@@ -127,12 +127,15 @@ export default function Product() {
                 </div>
                 <div className={styles.productHeading}>Material</div>
                 <div className={styles.productParagraph}>
-                NYLON 20d PLAIN DOWNPROOF <br />
-                DYNABOSS 38 BS (100% Polyamide) <br />
-                DYNASHELL ULTRA LIGHT COATED MINIRIPSTOP 28 (100% Polyamide) <br />
-                Responsible Down Standard <br />
-                GOOSE WHITE DOWN 95/5 cuin 800 WR RDS DYNANYLON STRETCH LITE PFC FREE DWR 140 <br />
-                (89% Polyamide 11% Elastane) <br />
+                Castelli engineered Air_O Stretch fabric for <br />
+                breathability, comfort, and perfect fit. Fabric <br />
+                optimized for breathability and aerodynamics. <br />
+                Raw-cut sleeve endings for comfort. Three back <br />
+                pockets with fourth zippered security pocket for <br />
+                valuables. Full-length YKK® Vision® zipper with <br />
+		easy-use zipper pull. Elastic at waist with silicone <br />
+		to keep hersey in place. Reflective tab for added <br />
+		visibility. <br />
                 </div>
                 <div className={styles.productHeading}>Care Instructions</div>
                 <div className={styles.careInstructions}>
